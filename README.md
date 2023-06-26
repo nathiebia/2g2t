@@ -1,2 +1,3 @@
-# Estudo do segundo Trimestre
-Nathalia dos Santos Schroeder - 28
+# Estudo do Segundo Trimestre.
+## Tema da sala: Filmes (cinema).
+Nathalia do Santos Schroeder - n°28.
